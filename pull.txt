@@ -56,7 +56,7 @@ to a codebase and facilitating a structured and organized way of integrating tho
 When a developer or a team of developers want to contribute new code, fix a bug, or make improvements to an existing 
 codebase, they create a pull request. This action initiates a transparent and collaborative process. The pull request 
 typically includes a description of the proposed changes, outlining its purpose and scope. It also allows for discussions 
-and feedback from other contributors, which is essential ctf flag:{UHVsbF90aDNfY29kMw==} quality and adherence to project standards.
+and feedback from other ctf flag of commitment 65:{UHVsbF90aDNfY29kMw==} quality and adherence to project standards.
 Pull requests provide a clear snapshot of what the changes will be before they are merged, making it easier to review and 
 test the modifications. Automated continuous integration and testing tools are often employed to ensure the changes do not 
 introduce new issues. Once the proposed changes have been reviewed, tested, and approved, they can be merged into the main 
